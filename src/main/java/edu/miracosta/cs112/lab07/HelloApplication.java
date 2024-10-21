@@ -31,7 +31,6 @@ public class HelloApplication extends Application  { //inheriting core functiona
         primaryStage.setScene(scene);
         primaryStage.show();
 
-
     }
 
 
